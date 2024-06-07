@@ -1,5 +1,5 @@
-Utilzz
-======
+## <img alt="Utilzz" src="logo.svg" width="192vw">
+
 Another boring utility library.
 
 ## Install
